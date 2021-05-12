@@ -93,8 +93,8 @@ for i in range(100):
 
 '''
 # to deploy app
-put code in public github repo
-include requirements.txt
-sign in share.streamlit.io
-"deploy an app" with github link
+- put code in public github repo
+- include requirements.txt
+- sign in share.streamlit.io
+- "deploy an app" with github link
 '''
