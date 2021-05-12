@@ -90,3 +90,11 @@ for i in range(100):
   time.sleep(0.1)
 
 '...and now we\'re done!'
+
+'''
+# to deploy app
+put code in public github repo
+include requirements.txt
+sign in share.streamlit.io
+"deploy an app" with github link
+'''
